@@ -1,7 +1,3 @@
-# Wi‑Fi Network QA
-
-Public‑safe toolkit showing how to validate Wi‑Fi connectivity, stability, and performance for IoT/embedded devices.
-Designed to reflect ~4 years QA experience (structured plans, KPIs, automation, CI).
 
 > All SSIDs, MACs, and endpoints are **dummy**. Replace via env vars or `.env` (not committed).
 
